@@ -10,7 +10,7 @@ const server = new Turn({
   // If your server has a public IP, you can use it directly
   // If your server is behind a NAT, use the public IP of the NAT
   // You can also use a domain name here
-//   publicAddress: '44.196.233.187',
+  publicAddress: '44.196.233.187',
 
   // TURN server credentials
   // You should generate your own username and password
